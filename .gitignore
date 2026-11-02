@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.local
+session/
+test_gemini.js
+test_gemini.py
+.env
