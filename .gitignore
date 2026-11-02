@@ -5,3 +5,5 @@ session/
 test_gemini.js
 test_gemini.py
 .env
+test-gemini*
+test_gemini*
